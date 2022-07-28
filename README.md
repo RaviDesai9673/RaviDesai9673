@@ -1,8 +1,6 @@
 # Sotware-Testing-Manual-Automation
 This is a mini project of checking the Register and Login Functionalities of a demo E-commerce website: https://demo.nopcommerce.com/
 
-*************************************************************************************************************************************************************
-
 # NOTE: This project also has an Automation Selenium-Python code which automates the user experience of registering an account and then searching, 
 comparing and buying products followed by making payment.
 
